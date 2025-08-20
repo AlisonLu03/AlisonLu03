@@ -8,5 +8,3 @@
 </p>
 
 
-<img width="2048" height="2048" alt="Gemini_Generated_Image_3z8qfu3z8qfu3z8q" src="https://github.com/user-attachments/assets/5836ed43-3119-400f-97d6-d248f14c0cec" />
-
