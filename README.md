@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi, I'm Alison Palacios! </h2>  
   <p align="center">
-  <img src="https://github.com/user-attachments/assets/5138077a-0bc8-405b-8400-7cff10d246d1](https://github.com/user-attachments/assets/5836ed43-3119-400f-97d6-d248f14c0cec)" alt="Alison Palacios profile image" />
+  <img src="https://github.com/user-attachments/assets/5138077a-0bc8-405b-8400-7cff10d246d1" alt="Alison Palacios profile image" />
 </p>
 
 <p>
