@@ -4,6 +4,6 @@
 </p>
 
 <p>
-👩🏻‍🎓 I studied **Systems Engineering** at the Alas Peruanas University. I'm proudly from **Arequipa** 📍 and passionate about lifestyle and adventure: exploring the world, capturing moments, and savoring new cultures and flavors ✈️🌍🏝️🗺️🚂🗽🏞️🚢🏕️📸🍲🎢
+  👩🏻‍🎓 I studied Systems Engineering at the Alas Peruanas University. I'm proudly from Arequipa 📍 and passionate about lifestyle and adventure: exploring the world, capturing moments, and savoring new cultures and flavors ✈️🌍🏝️🗺️🚂🗽🏞️🚢🏕️📸🍲🎢
 </p>
 
